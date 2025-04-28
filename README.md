@@ -7,15 +7,17 @@
 # Usage
 ```go run main.go```
 
+```BIN(10): 5371425764```
+
 # Response
 ```
 {
- "CompanyName": "ITAU UNIBANCO S.A.",
- "ICA": "6282",
- "AccountRangeFrom": 5154647100,
- "AccountRangeTo": 5154647199,
- "BrandProductCode": "MCG",
- "BrandProductName": "GOLD MASTERCARD",
+ "CompanyName": "BANCO C6 SA",
+ "ICA": "20414",
+ "AccountRangeFrom": 5371420000,
+ "AccountRangeTo": 5371429999,
+ "BrandProductCode": "MLC",
+ "BrandProductName": "MASTERCARD MICRO-BUSINESS CARD",
  "AcceptanceBrand": "MCC",
  "Country": "BRA"
 }
